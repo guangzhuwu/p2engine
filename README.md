@@ -1,4 +1,4 @@
 p2engine
 ========
 
-P2engine is a flexible and efficient platform for making p2p system (p2p live streaming, p2p vod...) development easier. Reliable UDP, Message Transport , Message Dispatcher, Fast and Safe Signal/Slot...
+P2Engine is a flexible and efficient platform designed to make Peer-to-Peer (P2P) system development easier. The platform provides features for developing P2P live streaming, P2P Video on Demand (VoD), and other P2P systems. Some of the key features mentioned in the repository description include reliable UDP, message transport, message dispatcher, and fast and safe signal/slot implementation.
